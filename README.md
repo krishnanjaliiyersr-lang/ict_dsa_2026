@@ -1,2 +1,2 @@
 # ict_dsa_2026
-Ict dsa project
+To create project as a part of DSA
